@@ -1,0 +1,16 @@
+$ Git Clone 
+https://github.com/BrunoHenrique1/ads-pullrequest-activity.git
+
+$ ls
+
+$ cd ads-pullrequest-activity/
+
+$ nano 18002284.txt
+
+$ git add .
+
+$ git status
+
+$ git commit -m "Bruno Henrique do Prado Franco"
+
+$ git push -u origin master
