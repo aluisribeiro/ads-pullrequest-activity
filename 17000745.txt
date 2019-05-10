@@ -12,6 +12,6 @@ Atividade de Git e GitHub
 
 6 - git add 17000745.txt
 
-7 - git commit -m “Commit da atividade de Git e GitHub. Aluno Matheus Portela”
+7 - git commit -m "Commit da atividade de Git e GitHub. Aluno Matheus Portela"
 
 8 - git push origin master
