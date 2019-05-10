@@ -1,0 +1,11 @@
+cd Desktop
+mkdir git-repo
+cd git-repo
+git init
+git clone https://github.com/JoaoVitorTrevisan/ads-pullrequest-activity.git
+cd ads-pullrequest-activity/
+touch 19000456.txt
+vi 19000456.txt
+git add 19000456.txt
+git commit -m "Alteração"
+git push origin master
