@@ -1,0 +1,9 @@
+Comandos utilizados:
+git clone https://github.com/jpfscharinger/ads-pullrequest-activity.git;
+cd ads-pullrequest-activity/;
+> 17000414;
+vi 17000414;
+git status
+git add 17000414.txt;
+git commit -m "Criacao do arquivo com RA e conteudo dos comandos utilizados";
+git push origin master;
