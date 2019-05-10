@@ -1,0 +1,10 @@
+Entrei no site, fiz o FORK
+Abri Terminal
+Git Clone https://github.com/danilopereiraa/ads-pullrequest-activity.git
+CD ads-pullrequest-activity/
+touch 19001128.txt
+nano 19001128.txt
+git add .
+git status
+git commit -m "Trabalho Anderson"
+git push origin master
