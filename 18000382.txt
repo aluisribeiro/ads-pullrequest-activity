@@ -1,0 +1,16 @@
+$ git clone https://github.com/vitoravelarmartins/ads-pullrequest-activity.git
+
+$ ls
+
+$ cd ads-pullrequest-activity/
+
+$ nano 18000382.txt
+
+$ git add .
+
+$ git status
+
+$ git commit -m "Vitor Avelar Martins"
+
+$ git push -u origin master
+
