@@ -7,3 +7,5 @@ git add 19000593.txt
 git commit -m "adicionei"
 git status 
 git push origin master
+new pull request
+create pull request
