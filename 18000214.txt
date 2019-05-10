@@ -1,0 +1,15 @@
+SEQUENCIA DE CÓDIGOS
+
+$ git clone https://github.com/aluisribeiro/ads-pullrequest-activity.git
+
+$ ls
+
+$ cd ads-pullrequest-activity/
+
+$ git add .
+
+$ git status
+
+$git commit -m "Isabela Cristensen"
+
+$ git push -u origin maste
