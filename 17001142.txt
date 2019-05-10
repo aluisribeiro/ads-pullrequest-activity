@@ -1,0 +1,12 @@
+1º passo - Fork do repositório
+2º passo - git clone https://github.com/PradoXD/ads-pullrequest-activity
+3º passo - cd ads-pullrequest-activity
+4º passo - ls -la
+5º passo - touch 17001142.txt
+6º passo - ls -la
+7º passo - vi 17001142.txt
+8º passo - git add .
+9º passo - git status
+10º passo - git commit -m "Commit Matheus Prado"
+11º passo - git push origin master
+12º passo - Criar o pull request
