@@ -1,0 +1,20 @@
+Entrei no git e fiz o fork
+
+Terminal 
+
+git clone https://github.com/paulonog17/ads-pullrequest-activity.git
+
+cd ads-pullrequest-activity/
+
+touch 19000834.txt
+
+nano 19000834.txt
+
+git add .
+
+git status
+
+git commit -m "Trabalho Anderson"
+
+git push origin master
+
