@@ -1,0 +1,9 @@
+fork
+git clone https://github.com/educeleghini/ads-pullrequest-activity.git]
+cd ads-pullrequest-activity/
+touch 19000593.txt
+git status
+git add 19000593.txt
+git commit -m "adicionei"
+git status 
+git push origin master
