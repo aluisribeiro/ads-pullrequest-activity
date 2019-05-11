@@ -1,0 +1,9 @@
+cd desktop
+git clone https://github.com/lucasmunhon/ads-pullrequest-activity.git
+cd ads-pullrequest-activity//
+touch 19001324.txt
+vi 19001324.txt
+git add.
+git comit -m "Trabalho Segurança"
+git push origin master
+
