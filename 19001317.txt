@@ -1,0 +1,7 @@
+Entrei no classroom, cliquei no link, direncionou para o github, fiz um fork e clonei no meu repositorio.
+Entrei no terminal e coloquei cd ads-pullrequest-activity.
+Criei meu arquivo usando touch (RA).txt
+Editei o arquivo e adicionei com add (RA).txt
+Depois fiz commit -m (meu arquivo)
+Em seguida fiz o push 
+Entrei no site do github e fui no repositorio e cliquei no botão pull request e enviei
