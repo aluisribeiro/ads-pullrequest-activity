@@ -1,0 +1,18 @@
+fork no projeto
+ 
+cd desktop
+git clone https://github.com/aluisribeiro/ads-pullrequest-activity
+cd ads-pullrequest-activity
+touch 17001145.txt
+ls
+nano 17001145.txt
+
+modifica o arquivo e fecha o nano
+
+git add .
+git commit -m "pull request atividade"
+git status
+git push origin master 
+
+new pull request
+create pull request
