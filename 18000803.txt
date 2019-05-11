@@ -1,0 +1,13 @@
+Primeiro entrei no git do anderson e fiz um fork
+depois clonei o meu repositorio 
+no terminal entrei e dei cd ads-pullrequest-activity
+criei arquivo usando touch meu RA.txt
+editei o arquivo
+e depois fiz  git add 18000803.txt
+depois git commit -m "meuarquivo"
+depois fiz o push 
+no site  do git  fui no repositorioe  cliquei no botao pull request
+comentei o pull request e enviei
+
+
+
