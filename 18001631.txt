@@ -5,23 +5,28 @@
 3. Abri o Git bash:
 
 -> git clone https://github.com/aluisribeiro/ads-pullrequest-activity
-	** Clonei o repositório
-
+** Clonei o repositório
 
 -> cd ads-pullrequest-activity/
-	** Entrei no repositório
+** Entrei no repositório
 
 -> touch 18001631.txt
-	** Criei o arquivo .txt
+** Criei o arquivo .txt
+
+-> git status
+**Visualizei como estava o repositório local.
 
 -> start 18001631.txt
-	** Abri o arquivo para edição.
+** Abri o arquivo para edição.
 
 -> git add 18001631.txt
-	** Preparei o arquivo para o commit.
+** Preparei o arquivo para o commit.
+
+-> git status
+**Visualizei como estava o repositório local.
 
 -> git commit -m " Atividade Push Github "
-	** Commitando o arquivo
+** Commitando o arquivo
 
 -> git push origin master
-	** Realizando o Push	
+** Realizando o Push	
