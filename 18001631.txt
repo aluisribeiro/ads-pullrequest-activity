@@ -30,3 +30,5 @@
 
 -> git push origin master
 ** Realizando o Push	
+
+4. Entrei no github(site) e criei um Pull Request
