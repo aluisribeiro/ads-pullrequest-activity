@@ -1,0 +1,15 @@
+﻿1º abrir diretório onde clonar o  arquivo
+
+2º git clone https://github.com/amaurinogueira/ads-pullrequest-activity.git.
+
+3º cd para entrar no repositório - ads-pullrequest-activity
+
+4º alterar o nome no arquivo para - 19001056.txt
+
+5º Adicionar o passo a passo - vi
+
+6º Preparar para o commit - git add
+
+7º Criar o commit - git commit -m "Criando commit com Dados Amauri"
+
+8º Uppar arquivo para o github - git push origin 
