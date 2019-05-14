@@ -1,0 +1,16 @@
+Caio Andrade 	
+ cd desktop
+ git clone (link)
+ cd clone
+ touch RA	
+ vi RA	
+ git add 18001508.txt
+ git commit	
+ git remote add origin  (link)
+ git remote -v
+ git push origin master 
+ git status
+ clear
+ history
+ 	
+ 	
