@@ -1,4 +1,4 @@
-git clone https://github.com/aluisribeiro/ads-pullrequest-activity.git
+git clone https://github.com/erykscarabellodias/ads-pullrequest-activity.git
 
 cd ads-pullrequest-activity/
 
