@@ -3,9 +3,7 @@ cd ads-pullrequest-activity
 nano 19000432.txt
 git add 19000432.txt
 git status
-git commit -m "atividade git"
-git push -u origin master
+git commit -m "Atividade git"
 git add 19000432.txt
 git status
-git commit -m "Inserção dos comandos"
-git push -u origin master
+git push origin
