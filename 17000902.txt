@@ -1,0 +1,10 @@
+Fork
+Git clone https://github.com/FelipeOlmedo/ads-pullrequest-activity
+Cd ads-pullrequest-activity 
+Touch 17000902.txt
+Nano 17000902.txt
+Git status
+Git add .
+Git commit -m "Trabalho"
+Git push origin master
+
