@@ -1,0 +1,10 @@
+cd desktop
+git clone https://github.com/CaiquePV/ads-pullrequest-activity.git
+git config --global user.name "caiquepv"
+git config --global user.email caique.vasconcellos@sou.unifeob.edu.br
+touch 17000265.txt
+git add .
+git commit -m "Prova 17/05 - Caíque Palermo Vasconcellos"
+nano 17000265.txt
+git push origin master
+
