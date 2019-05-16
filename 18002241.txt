@@ -1,0 +1,7 @@
+git add 18002241.txt
+git commit -m "18002241"
+git remote add origin https://github.com/joaopaulostanguini/ads-pullrequest-activity.git
+git remote -v
+git push origin master
+git status
+git log
