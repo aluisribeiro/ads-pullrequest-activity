@@ -1,0 +1,11 @@
+git clone https://github.com/ViniciusContini/ads-pullrequest-activity.git
+
+git status
+
+git add 18002254.txt
+
+git status
+
+git commit -m "Exercicio Git"
+
+git push origin master
