@@ -1,0 +1,16 @@
+
+https://github.com/danilodgm/ads-pullrequest-activity.git
+
+cd ads-pullrequest-activity/
+
+touch 17001006.txt
+
+notepad 17001006.txt
+
+listei os comandos dos exerícios aqui...
+
+git add .
+
+git commit -m "Arquivo 17001006.txt criado"
+
+git push origin master
