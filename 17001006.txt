@@ -1,5 +1,5 @@
 
-https://github.com/danilodgm/ads-pullrequest-activity.git
+git clone https://github.com/danilodgm/ads-pullrequest-activity.git
 
 cd ads-pullrequest-activity/
 
