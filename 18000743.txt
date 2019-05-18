@@ -1,0 +1,11 @@
+git clone https://github.com/Bruno-NiaroDev/ads-pullrequest-activity.git
+cd ads-pullrequest-activity
+git status
+git branch
+touch 18000743.txt
+notepad 18000743.txt
+git status
+git add .
+git status
+git commit -m "Meus comando para o pull request."
+git push origin master
