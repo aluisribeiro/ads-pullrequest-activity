@@ -1,0 +1,19 @@
+Entrei no git no local ads-pull ads-pullrequest-activity e fiz um FORK
+
+TERMINAL
+
+git clone https://github.com/otaviooliveira/ads-pullrequest-activity.git
+
+cd ads-pullrequest-activity/ 
+
+touch 17000548.txt
+
+code .
+
+git add .
+
+git status
+
+git commit -m "Atividade Anderson"
+
+git push origin master
