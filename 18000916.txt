@@ -1,0 +1,17 @@
+> fork ads-pullrequest-activity on aluisribeiro/ads-pullrequest-activity;
+
+> terminal -> git https://github.com/Sprengzor/ads-pullrequest-activity.git;
+
+> touch 18000916.txt (this file);
+
+> edit file 18000916.txt;
+
+> git add 18000916.txt;
+
+> git commit -m "activity commit";
+
+> git push origin master;
+
+> on github: press pull request button;
+
+> Comment, and send pull request;
