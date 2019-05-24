@@ -1,0 +1,8 @@
+git clone https://github.com/Potter713/ads-pullrequest-activity.git
+cd ads-pullrequest-activity
+touch 19001440.txt
+nano 19001440.txt
+git add 19001440.txt
+git commit -m "Cesar"
+git push https://github.com/Potter713/ads-pullrequest-activity
+
