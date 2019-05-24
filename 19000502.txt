@@ -1,0 +1,10 @@
+mkdir ads-pullrequest-activity
+cd ads-pullrequest-activity
+git init
+git remote add origin https://github.com/zoldyckill/ads-pullrequest-activity.git
+touch 19000502.txt
+git add 19000502.txt
+git status
+git commit -m "commit Jennifer"
+git push origin master
+após o push entro no navegador e realizo o pullrequest para o repositório designado
