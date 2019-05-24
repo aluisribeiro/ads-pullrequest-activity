@@ -1,0 +1,17 @@
+Atividade de Git e GitHub
+
+1 - O primeiro passo a ser feito é dar um fork no repositório
+
+2 - git clone https://github.com/matheusPortela12/ads-pullrequest-activity.git
+
+3 - cd ads-pullrequest-activity/
+
+4 - ls -la
+
+5 - nano 17000745.txt
+
+6 - git add 17000745.txt
+
+7 - git commit -m "Commit da atividade de Git e GitHub. Aluno Matheus Portela"
+
+8 - git push origin master
