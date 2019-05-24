@@ -1,0 +1,9 @@
+cd desktop
+git clone https://github.com/FernandoAndrade83/ads-pullrequest-activity.git
+cd ads-pullrequest-activity//
+touch 19000576.txt
+vi 19000576.txt
+git add .
+git commit -m "Primeira alteração"
+git push origin master
+
