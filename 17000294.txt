@@ -1,0 +1,10 @@
+fazer um fork
+git clone https://github.com/GustavoBiazotoMa/ads-pullrequest-activity.git
+cd ads-pullrequest-activity
+touch 17000294.txt
+vi 17000294.txt
+git status
+git add 17000294.txt
+git status
+git commit -m "Texto"
+git push origin master
