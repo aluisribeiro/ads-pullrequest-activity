@@ -1,0 +1,14 @@
+Lucas Nicolau
+
+cd desktop
+git clone
+cd clone
+touch 18000026.txt
+vi 18000026.txt
+git add 18000026.txt
+git commit -m "18000026"
+git remote add origin 
+git remote -v 
+git push origin master
+clear
+
