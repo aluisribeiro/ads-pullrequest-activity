@@ -1,0 +1,15 @@
+Lucas Varsone 
+commandos:
+cd desktop
+git clone (link do git)
+cd (link do clone)
+touch 18000741.txt
+vi 18000741.txt
+git add 18000741.txt
+git commit -m "18000741"
+git remote add origin (link do git)
+git remote -v
+git push origin master
+git status
+git log
+clear
