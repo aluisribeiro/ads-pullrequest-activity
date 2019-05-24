@@ -1,0 +1,7 @@
+git clone https://github.com/helinhu971/ads-pullrequest-activity.git
+cd ads-pullrequest-activity
+touch 18002252.txt
+git status
+git add .
+git commit -m "Trabalho git"
+git push origin master
