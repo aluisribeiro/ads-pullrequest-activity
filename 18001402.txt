@@ -1,0 +1,25 @@
+Samuel Breve
+
+cd desktop
+
+git clone https://github.com/samuelbreve/ads-pullrequest-activity.git
+
+cd https://github.com/samuelbreve/ads-pullrequest-activity.git
+
+touch 18001402.txt
+
+vi 18001402.txt
+
+git add 18001402.txt
+
+git commit -m "18001402"
+
+git remote add origin https://github.com/samuelbreve/ads-pullrequest-activity.git
+
+git remote -v
+
+git push origin master
+
+git log
+
+clear
