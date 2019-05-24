@@ -1,0 +1,34 @@
+1. Abri o link 'https://github.com/aluisribeiro/ads-pullrequest-activity'.
+
+2. Criei um Fork.
+
+3. Abri o Git bash:
+
+-> git clone https://github.com/aluisribeiro/ads-pullrequest-activity
+** Clonei o repositório
+
+-> cd ads-pullrequest-activity/
+** Entrei no repositório
+
+-> touch 18001631.txt
+** Criei o arquivo .txt
+
+-> git status
+**Visualizei como estava o repositório local.
+
+-> start 18001631.txt
+** Abri o arquivo para edição.
+
+-> git add 18001631.txt
+** Preparei o arquivo para o commit.
+
+-> git status
+**Visualizei como estava o repositório local.
+
+-> git commit -m " Atividade Push Github "
+** Commitando o arquivo
+
+-> git push origin master
+** Realizando o Push	
+
+4. Entrei no github(site) e criei um Pull Request
