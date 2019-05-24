@@ -1,0 +1,10 @@
+mkdir ads-pullrequest-activity
+cd ads-pullrequest-activity
+git init
+git remote add origin https://github.com/LRabelo/ads-pullrequest-activity.git
+touch 19000553.txt
+git add 19000553.txt
+git status
+git commit -m "Exercicio Git Lucas Rabelo"
+git push origin master
+após o push entro no navegador e realizo o pullrequest para o repositório designado
