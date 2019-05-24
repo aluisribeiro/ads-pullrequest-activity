@@ -1,0 +1,19 @@
+git clone https://github.com/Ak4mme/ads-pullrequest-activity.git
+
+ls
+
+cd ads-pullrequest-activity
+
+nano 18002256.txt
+
+git add .
+
+git status
+
+git commit -m "Thiers Francisco Piconi De Andrade"
+
+git push -u origin master
+
+
+
+
