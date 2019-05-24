@@ -1,5 +1,6 @@
-Primeiramente foi realizado um Fork no repositorio copiando o conteudo que havia dentro para o meu repositorio de forma colaborativa, 
+Primeiramente foi realizado um Fork no repositorio copiando o conteudo que havia dentro para o meu repositorio de forma colaborativa,
 em seguia fiz um clone da atividade.Utilizando a ferramenta Git Bash eu clonei os arquivos com o comando "git clone https://github.com/arckye/ads-pullrequest-activity.git"
+Para concluir a alteraÃ§Ã£o sera necessario usar o comando "git add 17000700"
 e em seguida usei o comando ls dentro do git bash para listar os arquivos que possuia, logo em seguia abri a pasta da atividade e alterei o nome, passando meu RA, como
-foi descrito na ativade a ser feita e realizar uma descrição das etapas utilizadas.Ao termino usarei o comando "git commit -n 'teste'" e para finalizar usarei
- o comando "git push" para voltar com essa nova versão ao meu repositorio e que poderá ser aceito pelo colaborado.
+foi descrito na ativade a ser feita e realizar uma descriï¿½ï¿½o das etapas utilizadas.Ao termino usarei o comando "git commit -n 'teste'" e para finalizar usarei
+ o comando "git push" para voltar com essa nova versï¿½o ao meu repositorio e que poderï¿½ ser aceito pelo colaborado.
