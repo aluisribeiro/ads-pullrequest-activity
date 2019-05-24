@@ -1,0 +1,8 @@
+git clone "http://~~"
+cd ads~~
+touch 17000335.txt
+vi 170~~
+git add .
+git commit -m "brunoc commit"
+git push origin master
+
