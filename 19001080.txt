@@ -1,0 +1,9 @@
+mkdir ads-pullrequest-activity
+cd ads-pullrequest-activity
+git init
+git remote add origin https://github.com/natanfb2001/ads-pullrequest-activity.git
+touch 19001080.txt
+git add 19001080.txt
+git status
+git commit -m "Trabalho Segurança"
+git push origin master
