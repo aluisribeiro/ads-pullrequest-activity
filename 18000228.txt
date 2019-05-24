@@ -1,0 +1,17 @@
+TRABALHO - sequencia dos códigos
+
+$git clone https://github.com/analauraalb/ads-pullrequest-activity.git
+
+$ls
+
+$cd ads-pullrequest-activity/
+
+$nano 18000228.txt
+
+$git add .
+
+$git status
+
+$git commit -m "ana laura albuquerque"
+
+$ git push -u origin master
