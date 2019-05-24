@@ -1,0 +1,9 @@
+git clone https://github.com/hiagofss/ads-pullrequest-activity
+cd ads-pullrequest-activity/
+touch 17000446.txt
+vi 17000446.txt
+git add .
+git status
+git commit -m "Criando file 17000746.txt"
+git push
+git push origin master
