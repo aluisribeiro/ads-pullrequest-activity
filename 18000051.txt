@@ -1,0 +1,12 @@
+1. Visitar o repositório https://github.com/aluisribeiro/ads-pullrequest-activity
+2. Realizar o fork
+3. git clone https://github.com/RenanBaldo/ads-pullrequest-activity.git
+4. cd ads-pullrequest-activity/
+5. touch 18000051.txt
+6. vi 18000051.txt
+7. git add .
+8. git commit -m "Atividade Pull Request"
+9. git status
+10. git push origin master
+11. git log
+12. Acessar o github > New pull request > Create pull request
