@@ -1,0 +1,14 @@
+Logar no Git HUB com a minha conta.
+link do projeto que quero contribuir
+botão fork
+clonar projeto para a minha maquina
+abrir o terminal
+Comandos:
+git clone com o link do prejeto com .git no final
+Entar na pasta do projeto
+git status
+git branch 19000866.txt
+git checkout
+vim 19000866.txt
+etc 
+
