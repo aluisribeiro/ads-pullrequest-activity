@@ -1,0 +1,10 @@
+ls
+cd Desktop
+git clone https://github.com/leonardolarangeiras/ads-pullrequest-activity.git
+cd ads-pullrequest-activity/
+touch 18001951.txt
+vi 18001951.txt
+git add 18001951.txt
+git commit -m "Subindo arquivo com os comandos"
+git push origin master
+
